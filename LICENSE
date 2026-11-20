@@ -1,0 +1,26 @@
+Copyright (c) 2026 Fabio Rota, Leandros Gerontakis, Shruti Edke, Elimy Ojeda
+(NEMO Innovation Camp 2026, Working Group 2). All rights reserved.
+
+This repository is published for academic and portfolio purposes only.
+
+You may view the contents and cite them with attribution (see CITATION.cff).
+No licence is granted to copy, modify, redistribute or use the simulation
+models, documentation, figures or presentation, in whole or in part, for any
+other purpose without prior written permission from the authors.
+
+Third-party material
+--------------------
+* The scenario (NEMO 2026 Disruptive Scenario 2, "5.0 Solution for
+  Manufacturing Automation") was provided by Marquardt and Lucian Blaga
+  University of Sibiu. Station times and probabilities in the models are the
+  team's modelling assumptions and are not published factory data.
+* NEMO, OMiLAB, CoDEMO, Scene2Model, AnyLogic and other names and logos
+  belong to their respective owners. Scene2Model figure graphics shown in
+  images/ and presentation/ remain the property of their respective owners.
+* Some illustrations in presentation/ are AI-generated and are included only
+  as part of the original slides.
+
+Nothing in this repository represents the views of Marquardt, Lucian Blaga
+University of Sibiu, OMiLAB or the CoDEMO consortium.
+
+THE CONTENT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.

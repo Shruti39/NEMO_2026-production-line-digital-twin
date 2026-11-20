@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you refer to this work, please cite it as below."
+title: "OASYS — Operator-aware Assembly SYStem: Digital Twin and Human-Centric Production Optimisation (NEMO Innovation Camp 2026)"
+type: software
+authors:
+  - family-names: Rota
+    given-names: Fabio
+  - family-names: Gerontakis
+    given-names: Leandros
+  - family-names: Edke
+    given-names: Shruti
+  - family-names: Ojeda
+    given-names: Elimy
+date-released: 2026-11-20
+repository-code: "https://github.com/Shruti39/NEMO_2026-production-line-digital-twin"
+license-url: "https://github.com/Shruti39/NEMO_2026-production-line-digital-twin/blob/main/LICENSE"
+abstract: >-
+  Discrete-event digital twin (AnyLogic) of an automotive switch-panel assembly
+  line developed at the NEMO Innovation Camp 2026 (Disruptive Scenario 2).
+  Parallel flashing and a shared operator pool reduce the simulated time between
+  finished units from about 24 s to 13.3 s. OASYS proposes a human-centric
+  Industry 5.0 extension (Human Digital Twin, adaptive workforce, AI guidance).
+keywords:
+  - digital twin
+  - discrete-event simulation
+  - AnyLogic
+  - BPMN
+  - Industry 5.0
+  - manufacturing

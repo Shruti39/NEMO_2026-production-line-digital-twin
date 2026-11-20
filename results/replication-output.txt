@@ -1,0 +1,16 @@
+
+[baseline]  20 seeds, 20000 s horizon, 2000 s warm-up
+  mean time between finished units :   23.5 s  (±0.1, 95% CI)
+  throughput                       :    153 units/h (±1)
+  utilisation base_housing_operator :  0.07  (±0.00)
+  utilisation buttons_operator      :  0.14  (±0.00)
+  utilisation flashing_expert       :  1.00  (±0.00)
+  utilisation silicon_mat_operator  :  0.07  (±0.00)
+  utilisation socket_operator       :  0.07  (±0.00)
+
+[optimised]  20 seeds, 20000 s horizon, 2000 s warm-up
+  mean time between finished units :   13.3 s  (±0.1, 95% CI)
+  throughput                       :    271 units/h (±1)
+  utilisation assembly_operator     :  0.86  (±0.00)
+  utilisation buttons_operator      :  1.00  (±0.00)
+  utilisation flashing_expert       :  0.69  (±0.00)

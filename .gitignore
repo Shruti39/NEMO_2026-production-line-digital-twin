@@ -1,0 +1,38 @@
+# --- AnyLogic: keep *.alp sources, ignore generated/derived files ---
+*.alp.bak
+*.alp~
+*.alpx.bak
+bin/
+build/
+classes/
+*.class
+*.jar
+*.log
+*.tmp
+.metadata/
+# AnyLogic exported/standalone applications
+*_export/
+model.jar
+# AnyLogic cloud / runtime caches
+.anylogic/
+*.lck
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# --- OS / editors ---
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.swp
+
+# --- never commit secrets ---
+.env
+*.pem
+*.key
